@@ -38,7 +38,9 @@ Welcome to the **PDF Q&A Chatbot!** This interactive, Streamlit-based applicatio
 
 ## Why Use This Chatbot? 🤔
 ✅ **Researchers:** Quickly extract key information from academic articles.
+
 ✅ **Professionals:** Search through financial reports, legal documents, and technical manuals.
+
 ✅ **Everyone:** Easily get detailed answers from lengthy PDFs.
 
 ---
@@ -70,7 +72,7 @@ Welcome to the **PDF Q&A Chatbot!** This interactive, Streamlit-based applicatio
 
 #### **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/pdf-qa-chatbot.git
+git clone https://github.com/Zakeertech3/PDF_AI_CHATBOT.git
 cd pdf-qa-chatbot
 ```
 
@@ -116,7 +118,7 @@ streamlit run app.py
 ## Deployment 🚀
 This application is deployed on **Streamlit Cloud**.
 
-Try it out here: **[PDF Q&A Chatbot](#)**
+Try it out here: **[PDF Q&A Chatbot](https://pdfaichatbot-vcds3mrdu6t5mdlqm9cmgp.streamlit.app/)**
 
 ---
 
