@@ -91,7 +91,7 @@ div.stTextInput > div > div > input {
 
 # Main container for app content
 with st.container():
-    st.markdown('<div class="header">Dark Mode PDF Q&A Chatbot</div>', unsafe_allow_html=True)
+    st.markdown('<div class="header">PDF Q&A Chatbot</div>', unsafe_allow_html=True)
     st.write("Upload your PDF files below, embed them, and then chat with the app to ask questions based on their content.")
 
     # Load NVIDIA API key from .env file
